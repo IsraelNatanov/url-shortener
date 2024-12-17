@@ -26,7 +26,7 @@ This project consists of two components:
 #### Clone the repository:
 ```bash
 # Clone the server repository
-git clone https://github.com/your-repo/url-shortener-service.git
+git clone https://github.com/IsraelNatanov/url-shortener
 cd url-shortener-service
 ```
 
@@ -93,7 +93,7 @@ npm run test:cov
 #### Clone the repository:
 ```bash
 # Clone the client repository
-git clone https://github.com/your-repo/url-shortener-client.git
+git clone https://github.com/IsraelNatanov/url-shortener
 cd url-shortener-client
 ```
 
